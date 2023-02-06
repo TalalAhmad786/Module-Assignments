@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main-title {
+    font-size: 3em;
+    font-weight: bold;
+    margin: 30px 30px
+}
+
+.navbar-brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.8em;
+    font-weight: bold;
+
+}
+
+.bg-light {
+    background-color: #9E9E9E !important;
+}
+
+.navbar-nav a {
+    background: #050505;
+    text-align: center;
+    border: 1px solid white;
+    font-weight: normal;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ddd;
+    padding-left: 2px;
+}
+
+.item-text {
+    border: 1px solid #D9D9D9;
+    background-color: #D9D9D9;
+    padding: 15px;
+
+}
